@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "생활코딩 WEB2 - Node.js 강좌 수업내용",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogyuni/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogyuni/nodejs/issues"
+  },
+  "homepage": "https://github.com/bogyuni/nodejs#readme",
+  "dependencies": {
+    "sanitize-html": "^2.5.2"
+  }
+}
